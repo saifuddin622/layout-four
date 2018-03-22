@@ -1,0 +1,53 @@
+.header_border {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    min-height: 80px;
+    background-color: cadetblue;
+    border: 2px solid black;
+
+}
+
+.header{
+    min-height: 100px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    background-color:lightblue;
+    border: 2px solid black;
+
+}
+
+.artical_feature{
+    min-height: 100px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background-color: lightblue;
+    border: 2px solid black;
+    
+}
+
+.ad{
+    min-height: 90px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background-color: cadetblue;
+    border: 2px solid black;
+
+}
+
+.artical_logo{
+    min-height: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:lightblue;
+    border: 2px solid black;
+
+}
+
+
+
+
+
+
+
+
+
